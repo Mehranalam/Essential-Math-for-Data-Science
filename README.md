@@ -4,11 +4,11 @@ this place for solving problem of this book and creat a brief of this book a sum
 
 ![ES](./assets/ES.PNG)
 
-> every day 50 page to read - please :D
+> **every day 50 page to read - please :D**
 
 ### Chapters
 
-- [ ] Basic Math and Calculus Review 
+- [ ] [Basic Math and Calculus Review](/Basic-Math-and-Calculus-Review)
 - [ ] Probability
 - [ ] Descriptive and Inferential Statistics
 - [ ] Linear Algebra
