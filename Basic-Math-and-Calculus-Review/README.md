@@ -4,15 +4,15 @@
 موضوعات این فصل به این شکل خواهد بود:
 
 - [X] Number Theory
-- [X] Order of Operations
-- [X] Variables
-- [X] Functions
-- [X] Summations (zigma)
-- [X] Exponents
-- [X] Logarithms
-- [X] Euler's Number and Natural Logarithms
-- - [X] Euler Number
-- - [X] Natural Logarithms
+- [ ] Order of Operations
+- [ ] Variables
+- [ ] Functions
+- [ ] Summations (zigma)
+- [ ] Exponents
+- [ ] Logarithms
+- [ ] Euler's Number and Natural Logarithms
+- - [ ] Euler Number
+- - [ ] Natural Logarithms
 - [ ] Limits
 - [ ] Derivatives
 - - [ ] Partial Derivatives

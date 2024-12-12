@@ -16,5 +16,4 @@ this place for solving problem of this book and creat a brief of this book a sum
 - [ ] Logistic Regression and Classification
 - [ ] Neural Networks
 - [ ] Career Advice and the path forward :D
-
 - [ ] Supplemental Topics
