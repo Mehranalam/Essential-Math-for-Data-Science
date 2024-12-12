@@ -13,10 +13,10 @@
 - [X] Euler's Number and Natural Logarithms
 - - [X] Euler Number
 - - [X] Natural Logarithms
-- [ ] Limits
-- [ ] Derivatives
-- - [ ] Partial Derivatives
-- - [ ] The Chain Rule
+- [X] Limits
+- [X] Derivatives
+- - [X] Partial Derivatives
+- - [X] The Chain Rule
 - [ ] Integrals
 
 و درنهایت بعد از مطالعه این بخش ها یک جمع بندی کامل خواهیم داشت و در این پوشه اقدام به حل تمارین این فصل خواهیم کرد.
