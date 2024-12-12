@@ -4,9 +4,9 @@
 موضوعات این فصل به این شکل خواهد بود:
 
 - [X] Number Theory
-- [ ] Order of Operations
-- [ ] Variables
-- [ ] Functions
+- [X] Order of Operations
+- [X] Variables
+- [X] Functions
 - [ ] Summations (zigma)
 - [ ] Exponents
 - [ ] Logarithms
