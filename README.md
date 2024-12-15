@@ -8,8 +8,8 @@ this place for solving problem of this book and creat a brief of this book a sum
 
 ### Chapters
 
-- [ ] [Basic Math and Calculus Review](/Basic-Math-and-Calculus-Review)
-- [ ] [Probability](/Probability)
+- [X] [Basic Math and Calculus Review](/Basic-Math-and-Calculus-Review)
+- [X] [Probability](/Probability)
 - [ ] Descriptive and Inferential Statistics
 - [ ] Linear Algebra
 - [ ] Linear Regression
