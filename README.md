@@ -10,10 +10,10 @@ this place for solving problem of this book and creat a brief of this book a sum
 
 - [X] [Basic Math and Calculus Review](/Basic-Math-and-Calculus-Review)
 - [X] [Probability](/Probability)
-- [ ] Descriptive and Inferential Statistics
-- [ ] Linear Algebra
-- [ ] Linear Regression
-- [ ] Logistic Regression and Classification
-- [ ] Neural Networks
-- [ ] Career Advice and the path forward :D
+- [X] Descriptive and Inferential Statistics
+- [X] Linear Algebra
+- [X] Linear Regression
+- [X] Logistic Regression and Classification
+- [X] Neural Networks
+- [X] Career Advice and the path forward :D
 - [ ] Supplemental Topics
